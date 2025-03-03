@@ -26,17 +26,25 @@ Ensure you have the following ready:
 
 The main sections of this documentation are:
 
-1. Elaboration on Workspace Structure:
-Learn how Notion organizes content into pages and blocks.
+1. Creating Academic Dashboard:
+- Setting up a main student workspace
+- Creating semester overview pages
+- Setting up course pages
+- Adding quick-access links and bookmarks
 
-2. Configuring Workspace for Collaboration:
-Set up sharing permissions and invite collaborators to work on your pages.
+2. Building a Class Notes System:
+- Creating note templates
+- Using toggle lists for organized notes
+- Adding multimedia content
+- Linking related concepts
 
-3. Creating and Organizing Pages:
-Understand how to create pages, add sub-pages, and use blocks (e.g., headings, lists, images) to structure your content.
+3. Assignment Tracking with Databases:
+- Creating an assignment database
+- Setting up due date reminders
+- Using filters and views
+- Progress tracking features
 
-4. Integrating Databases and Task Management:
-Explore how to build tables, kanban boards, calendars, and galleries to track assignments, projects, or study schedules.
+4. need to do 
 
 ## Notes and Warning Messages
 
