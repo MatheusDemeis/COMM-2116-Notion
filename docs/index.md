@@ -26,25 +26,19 @@ Ensure you have the following ready:
 
 The main sections of this documentation are:
 
-1. Creating Academic Dashboard:
-- Setting up a main student workspace
-- Creating semester overview pages
-- Setting up course pages
-- Adding quick-access links and bookmarks
+1. Setting Up Your School Homepage:
+	- How to create your main study space
+	- Making pages for each semester
+	- Creating spaces for each class
+	- Adding shortcuts to important stuff
 
-2. Building a Class Notes System:
-- Creating note templates
-- Using toggle lists for organized notes
-- Adding multimedia content
-- Linking related concepts
+2. Taking Better Class Notes:
+	- Making note templates you can reuse
+	- Using expandable sections to keep notes tidy
+	- Adding pictures and videos to your notes
+	- Connecting related notes together
 
-3. Assignment Tracking with Databases:
-- Creating an assignment database
-- Setting up due date reminders
-- Using filters and views
-- Progress tracking features
 
-4. need to do 
 
 ## Notes and Warning Messages
 
