@@ -37,6 +37,11 @@ The main sections of this documentation are:
 	- Using expandable sections to keep notes tidy
 	- Adding pictures and videos to your notes
 	- Connecting related notes together
+    
+3. Manage Collaborative Projects:
+    - Set up shared workspaces 
+    - Maintain organized communication among team members
+
 
 
 
