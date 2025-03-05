@@ -1,4 +1,3 @@
----
 site_name: COMM-2116
 site_url: https://sitename.example
 theme:
@@ -11,7 +10,7 @@ theme:
     features:
         - navigation.footer
     palette:
-        # Dark Mode
+        # Dark Mode
         - scheme: slate
           toggle:
               icon: material/weather-sunny
@@ -47,13 +46,11 @@ markdown_extensions:
           alternate_style: true
     - admonition
     - pymdownx.details
-plugins:
-    - glightbox
-# extra:
-#   social:
-#     - icon: fontawesome/brands/youtube
-#       link: https://youtube.com/@james-willett
-#     - icon: fontawesome/brands/linkedin
-#       link: https://linkedin.com/in/willettjames
 
 copyright: Copyright &copy; 2024 Matheus Demeis & Nikita Lobanov
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
