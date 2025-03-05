@@ -58,5 +58,3 @@ If you ever forget any of these commands, you can always just enter "/" and see 
 
 !!! tip "Remember: Start simple! You can always add more features as you get comfortable."
 
-
-> next: 

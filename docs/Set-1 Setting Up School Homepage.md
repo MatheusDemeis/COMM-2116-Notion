@@ -43,6 +43,7 @@ For each class you're taking:
     when you go back to the school homepage it should look like this, with the MATH 101 subpage appearing as a link on the page.
 
 You can repeat this for all of your classes, allowing you to have a subpage for everything, keeping all your notes and information nice and organized.
+
 ## You're Done! 🎉
 
 Your new homepage has:
@@ -53,10 +54,6 @@ Your new homepage has:
 
 with this you can continue to make pages for each one of your classes
 
-!!! success "Great Job!  You've built your school hub! Ready to start taking notes?" 
+!!! success "Great Job! You've built your school hub! Ready to start taking notes?"
 
-
-!!! tip "Helpful Hint: Feel free to change things around to match how you study best." 
-
-
-> Next: [Building a Class Notes System](/Set-2%20Building%20a%20Class%20Notes%20System)
+!!! tip "Helpful Hint: Feel free to change things around to match how you study best."
