@@ -51,10 +51,12 @@ Your new homepage has:
 -   ✓ Your semester section
 -   ✓ Pages for each class
 
-with this you can 
+with this you can continue to make pages for each one of your classes
 
-!!! success "Great Job!"
-You've built your school hub! Ready to start taking notes?
+!!! success "Great Job!  You've built your school hub! Ready to start taking notes?" 
 
-!!! tip "Helpful Hint"
-Feel free to change things around to match how you study best.
+
+!!! tip "Helpful Hint: Feel free to change things around to match how you study best." 
+
+
+> Next: [Building a Class Notes System](/Set-2%20Building%20a%20Class%20Notes%20System)
