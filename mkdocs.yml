@@ -47,10 +47,12 @@ markdown_extensions:
     - admonition
     - pymdownx.details
 
+plugins:
+    - mkdocs-glightbox
 copyright: Copyright &copy; 2024 Matheus Demeis & Nikita Lobanov
 
 extra_css:
-  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+    - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
 
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
+    - https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
