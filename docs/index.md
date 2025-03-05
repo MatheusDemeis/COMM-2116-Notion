@@ -38,16 +38,20 @@ The main sections of this documentation are:
     - Using expandable sections to keep notes tidy
     - Adding pictures and videos to your notes
     - Connecting related notes together
-3. Manage Collaborative Projects:
+3. [Export in Notion:](set-3 Exporting.md)
+    - How to securely export your Notion pages 
+4. [Manage Collaborative Projects:](Set-4 Collaborative Study Groups.md)
     - Set up shared workspaces
+    - Making comments on Notion pages
     - Maintain organized communication among team members
+
 
 ## Notes and Warning Messages
 
 !!! success "Success"
 Indicates success on outcome of instructions
 
-!!! note "Note"
+!!! tip "Helpful Hint"
 Indicates helpful information or tips
 
 !!! warning "Warning"

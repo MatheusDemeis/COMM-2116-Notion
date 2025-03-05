@@ -1,6 +1,6 @@
 # **Setting Up Collaborative Projects**
 
-Let's now create your Collaborative workspace in Notion! Follow the tutorial below ⤵️
+Let's now create your collaborative workspace in Notion! Follow the tutorial below ⤵️
 
 ## **Create Workspace**
 
@@ -23,9 +23,9 @@ Let's now create your Collaborative workspace in Notion! Follow the tutorial bel
 
 1. Click on "Full Access"
         ![Screenshot showing permissions](assets/images/permissionWS.png)
-2. Choose which permission you want to give to the user & Click on Invite
+2. Choose which permission you want to give to the user & click on "Invite"
 
-### **You've invited your Collaborator** 🎉
+### **You've invited your Collaborator** ✅
 Lets now see how to work together efficiently on a shared workspace
 
 ## **Adding Comments**
@@ -48,8 +48,7 @@ Now you can:
 -   ✓ Receive feedback from your work
 -   ✓ Have a more efficient work environment
 
-!!! success "Great Job!"
-    You've built your Collaborative Workspace! Ready to start working with your teams?
+!!! success "Great Job! - You've built your Collaborative Workspace! Ready to start working with your teams?"
 
 
 
